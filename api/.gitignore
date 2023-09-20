@@ -1,2 +1,7 @@
 node_modules
 pnpm-lock.yaml
+routes.http
+.env
+dev.db
+tmp
+migrations
